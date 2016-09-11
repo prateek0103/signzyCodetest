@@ -3,8 +3,8 @@ var mysql = require('mysql');
 
 var connection = mysql.createConnection({
     host: 'localhost',
-    user: 'root',
-    password: 'astronaut',
+    user: '<your username here>',
+    password: '<your password here>',
     socketPath: "/var/run/mysqld/mysqld.sock",
     database: 'name'
 });
