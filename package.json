@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/prateek0103/signzyCodetest#readme",
   "dependencies": {
+    "express": "^4.14.0",
     "mysql": "^2.11.1"
   }
 }
