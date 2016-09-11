@@ -9,6 +9,7 @@ NodeJS | 4.5 |
 MySQL | 5.7
 
 Steps to run on your machine:
+
 1. Install NodeJS v4.5.0 based on [docs](https://nodejs.org/en/download/package-manager/)
 2. Install MySQL v5.7 based on [docs](http://dev.mysql.com/doc/refman/5.7/en/installing.html)
 3. Run `sudo mysql_secure_installation` to secure your existing mysql installation on linux, if you are running another OS, check [docs](https://dev.mysql.com/doc/refman/5.7/en/mysql-secure-installation.html)
